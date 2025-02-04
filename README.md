@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-⚡ fullstack developer ⚡senior of web development<br>🤝 cto in exuni.ir<br>married 💍<br>
+⚡ fullstack developer ⚡senior of web development<br>🤝 cto in exuni.ir<br>💍married <br>
 
 
 ## 🌐 Socials:
