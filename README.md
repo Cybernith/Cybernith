@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-⚡ fullstack developer ⚡senior of web development<br>🤝 cto in exuni.ir<br>
-Highly skilled full-stack developer with over six years of experience designing and implementing scalable web applications using front-end and back-end technologies...Proficient in HTML, CSS, JavaScript (Vue.js, Nuxt), Python, django and Restfull APIs, with expertise in database management (MySQL, MongoDB)
+CTO by title at exuni.ir <br>
+creator by nature. Shaping unseen empires with every line of code. Architect of digital realms, building systems that breathe, evolve, and scale. Leading teams to carve paths in the unknown, one elegant solution at a time
 <br>
 
 
