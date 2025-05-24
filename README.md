@@ -1,6 +1,5 @@
-
-Cyber Zenith 
 # 💫 About Me:
+Cyber Zenith <br>
 
 CTO by title at exuni.ir <br>
 creator by nature. Shaping unseen empires with every line of code. Architect of digital realms, building systems that breathe, evolve, and scale. Leading teams to carve paths in the unknown, one elegant solution at a time
