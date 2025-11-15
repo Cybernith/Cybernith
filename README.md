@@ -32,6 +32,14 @@ I architect and build systems that **breathe, evolve, and scale** — from backe
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernith&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cybernith&show_icons=true&theme=radical" height="165" />
+</p>
+---
 
 # 💻 Tech Stack:
 
@@ -89,34 +97,101 @@ I architect and build systems that **breathe, evolve, and scale** — from backe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernith&layout=compact&theme=radical" height="160" />
 </p>
 
-### 🧠 Skills Snapshot (Manual Radar)
+### 🧠 Skills Snapshot (Skill Radar)
 
-```text
-Languages:
-  Python       ██████████  95%
-  JavaScript   ████████░░  80%
-  TypeScript   █████░░░░░  50%
-  Bash         ██████░░░░  60%
+A high-level view of where I spend most of my engineering time 👇
 
-Backend:
-  Django / DRF █████████░  90%
-  FastAPI      ███████░░░  75%
-  Flask        ██████░░░░  60%
-  Celery       ███████░░░  75%
+#### 🐍 Languages
 
-Frontend:
-  Vue.js       ████████░░  80%
-  Nuxt.js      ██████░░░░  60%
-  Tailwind CSS ██████░░░░  60%
+| Language   | Level              | Focus Areas                             |
+| ---------- | ------------------ | --------------------------------------- |
+| Python     | Expert ⚡⚡⚡⚡⚡       | Backend, APIs, automation, data tooling |
+| JavaScript | Advanced ⚡⚡⚡⚡      | Frontend, SPAs, integrations            |
+| TypeScript | Intermediate ⚡⚡⚡░░ | Frontend, Next/Nuxt typings             |
+| Bash       | Strong ⚡⚡⚡⚡░       | DevOps, scripting, server automation    |
 
-Databases:
-  PostgreSQL   █████████░  90%
-  MongoDB      ██████░░░░  60%
-  Redis        ███████░░░  75%
-  Elasticsearch █████░░░░  50%
+#### 🧩 Backend & APIs
 
-DevOps & Cloud:
-  Docker/Dokku ████████░░  80%
-  NGINX        ███████░░░  70%
-  CI/CD        ███████░░░  75%
-  Linux Admin  ███████░░░  70%
+| Area              | Stack / Tools                                       | Notes                                    |
+| ----------------- | --------------------------------------------------- | ---------------------------------------- |
+| Web Frameworks    | Django, Django REST Framework (DRF), FastAPI, Flask | Core backend & microservices             |
+| API Design        | REST, GraphQL (Ariadne, Strawberry, Graphene)       | Versioned, documented, secure APIs       |
+| Messaging & Async | Celery, Redis, RabbitMQ                             | Background jobs, queues, task pipelines  |
+| Auth & Security   | JWT, OAuth2, session-based auth                     | Secure, multi-tenant, role-based systems |
+| Testing & Quality | Pytest, unit/integration tests, CI/CD               | Automation-first, coverage-driven        |
+
+#### 🎨 Frontend & UX
+
+| Area             | Stack / Tools                                        | Notes                             |
+| ---------------- | ---------------------------------------------------- | --------------------------------- |
+| Frameworks       | Vue.js, Nuxt.js, Vue CLI, Next.js                    | SPAs, dashboards, marketing sites |
+| Styling          | Tailwind CSS, Bootstrap, SCSS, custom design systems | Design systems, responsive layout |
+| State Management | Vuex, Pinia                                          | Complex UI flows, data-driven UIs |
+| Integration      | Axios / Fetch, REST/GraphQL                          | Clean API layers, error handling  |
+| Performance & UX | Lighthouse tuning, code-splitting, lazy loading      | Fast, responsive, mobile-first    |
+
+#### 🗄 Databases & Search
+
+| Area              | Stack / Tools                                            | Notes                                      |
+| ----------------- | -------------------------------------------------------- | ------------------------------------------ |
+| Relational        | PostgreSQL, MySQL, MariaDB                               | Schema design, indexing, performance       |
+| NoSQL & Caching   | MongoDB, Redis                                           | Caching, pub/sub, in-memory data           |
+| Search & Indexing | PostgreSQL FTS, TrigramSimilarity, Elasticsearch (ready) | Fuzzy search, ranking, text-intensive apps |
+| Reliability       | Backups, replication, failover, ACID                     | Data integrity & resilience                |
+
+#### ☁️ DevOps, Cloud & Infra
+
+| Area                  | Stack / Tools                                           | Notes                                 |
+| --------------------- | ------------------------------------------------------- | ------------------------------------- |
+| Containerization      | Docker, Docker Compose, Dokku                           | App packaging, PaaS-style deployments |
+| Web Servers & Proxy   | NGINX, Gunicorn, Uvicorn                                | Secure, performant serving            |
+| CI/CD                 | GitHub Actions, GitLab CI                               | Automated testing & deploy pipelines  |
+| Cloud & VPS           | AWS, DigitalOcean, Hetzner, Ubuntu servers              | Provisioning, monitoring, backup      |
+| Security & Monitoring | SSL/TLS, firewalls, logging, metrics, uptime monitoring | Hardening, observability, alerting    |
+
+---
+
+## 🧭 Experience Highlights
+
+### 🧱 CTO & Lead Full-Stack Developer — EXUNI (exuni.ir)  
+
+**Shiraz, Iran • May 2024 – Present**
+
+- Built EXUNI, a next-generation affiliate-based e-commerce platform, **from scratch** (backend + frontend).  
+- Backend: Django, DRF, PostgreSQL, MongoDB — inventory management, advanced search, scalable financial modules (wallet, audit logs, transactions).  
+- Frontend: Nuxt.js, Vue CLI — responsive, SEO-aware, high-performance storefront.  
+- Designed architecture for **thousands of concurrent users** with strong focus on security, scalability, and maintainability.  
+- Full CI/CD, Dockerized deploy, observability, and modular domain-driven design.
+
+---
+
+### ☁️ CTO Assistant & Full-Stack Developer — Sobhan.Cloud  
+
+**Shiraz, Iran • Jan 2020 – Jan 2025**
+
+- Developed core components of a cloud service platform providing **SaaS and infrastructure hosting**.  
+- Worked on frontend (Vue.js) and backend (Django, DRF) for **multi-tenant systems with dynamic configuration**.  
+- Contributed to **cloud APIs, billing automation, integrations** with external services.  
+- Optimized performance and reliability for systems under heavy load.
+
+---
+
+### 🧩 Full-Stack Developer — Hamian Omid Farda  
+
+**Tehran, Iran • Sep 2022 – Apr 2023**
+
+- Built & maintained internal enterprise systems using Django + Django templates.  
+- Digitized manual workflows, improving overall efficiency significantly.  
+- Ensured clean, well-documented code and collaborated in an agile environment.
+
+---
+
+
+## 📩 Contact
+
+- 📧 Email: **devolopersoroosh@gmail.com**  
+- 📞 Phone: **(+98) 917 103 5930**  
+- 🌐 Website: **https://sorooshmorshedi.ir**  
+- 🐙 GitHub: **https://github.com/cybernith**  
+
+> Open to remote collaboration, complex backend architectures, Web3 integrations, and building systems that actually scale — not just on paper.
