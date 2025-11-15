@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 CTO by title at <strong>EXUNI</strong>, creator by nature.  
-I architect and build systems that **breathe, evolve, and scale** — from backend core logic and financial engines to modern front-end applications and cloud-native deployments.
+I architect and build systems that **breathe, evolve, and scale** - from backend core logic and financial engines to modern front-end applications and cloud-native deployments.
 
 - 🧠 7+ years of experience in **Full-Stack Development**
 - 🧱 Strong focus on **Django, DRF, PostgreSQL, MongoDB, Docker, Nuxt.js, Vue.js**
