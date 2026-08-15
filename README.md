@@ -2,18 +2,38 @@
 <h3 align="center">Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast</h3>
 
 ``` js
- █████   ██   ██  █████    ██████   █████    ██   ██  ███████  ███████  ██   ██
-██        ██ ██   ██  ██   ██       ██  ██   ███  ██    ███      ███    ██   ██
-██         ███    █████    █████    █████    ██ █ ██    ███      ███    ███████
-██          █     ██  ██   ██       ██ ██    ██  ███    ███      ███    ██   ██
-██          █     ██  ██   ██       ██  ██   ██   ██    ███      ███    ██   ██
- █████      █     █████    ██████   ██   ██  ██   ██  ███████    ███    ██   ██
 
-                    C Y B E R N I T H
-                 
-> ⚡ Crafted & unleashed by Soroosh morshedi ~ ( Cybernith ) ~
->  🌐  https://sorooshmorshedi.ir
-> ❤️ Built with passion 
+     ▄▄▄▄█▄▄  ███   ▐██▌  ▄▄█▄▄▄▄        ▄▄▄▄█▄▄  ▄▄█▄▄▄▄▄    ▄▄▄▄▄   ███     █████████ ▐██▌   ▐██▌
+  ▄███▀▀▀▐██ ▐██▌   ▐██▌ ▐▓▓▓▀▀▀███▄  ▄███▀▀▀▐██ ▐▓▓▓▀▀▀███▌  ▐███▓▓  ███  ███  ▐▓▓▌    ▐██▌   ▐██▌
+ ███▀    ███ █▓▓▄   ▓▓▓  ▐██▌   ▐███ ███▀    ███ ▐██▌   ▐██▌  ▓▓▓▐██▌▐▓▓▌ ▐██▌  ███     ▓▓▓    ▓▓▓ 
+▐▓▓▌    ▐▓▓▌  ▀▀█▓▓▒▒▒▒  ▓▓▓   ▄▓▓▀ ▐▓▓▌    ▐▓▓▌ ▓▓▓   ▄▓▓▀   ▒▒▒ ▓▓▓▐▒▒▌ ▐██▌  ▓▓▓     ▒▒▒▓▓▓▒▒▒▒ 
+▒▒▒          ▄▄▄   ▐░░▌  ▒▒▒ ▒▒▒▒▄  ▒▒▒▒▒▒▒      ▒▒▒▒▒▒▒▒    ▐░░▌ ▐▒▒▌░░  ▓▓▓  ▐▒▒▌    ▐░░▌   ▐░░▌ 
+░░░         ▐██▌   ▐██▌ ▐░░▌    ░░░ ░░░         ▐░░▌ ░░░     ▐██▌  ░░░██  ▒▒▒  ▐░░▌    ▐██▌   ▐██▌ 
+▐██▌    ███ ███    ███  ▐██▌   ▐██▌ ▐██▌    ███ ▐██▌ ▐██▌    ███   ▐███▌ ▐░░▌  ███     ███    ███  
+ ▀▓▓▓▄▄▄███ ▀▓▓▓▓▓▓▓▀   ███ ▄▄▓▓▓▀   ▀▓▓▓▄▄▄███ ███   █▓▓   ▐▓▓▓    ▓▓▓▌ ▐▓▓▌  ▓▓▓     ▓▓▓    ▓▓▓  
+     ▀▀▓▓▓▌             ▓▓▓▓█▀▀          ▀▀▓▓▓▌ ▓▓▓   ▐▓▓▌                     ▀▀▀                 
+     
+                                                                                  
+ ┌─[ CONTACT://SOROOSH_MORSHEDI ]─────────────────────────────────────────────────────────┐
+ │                                                                                        │
+ │  > WEB............. sorooshmorshedi.ir                                                 │
+ │  > GITHUB.......... github.com/Cybernith                                               │
+ │  > LINKEDIN........ linkedin.com/in/sorooshMorshedi                                    │
+ │  > INSTAGRAM....... instagram.com/cybernith                                            │
+ │  > call............ +989035894088                                                      │
+ │  > whatsapp........ +989171035930                                                      │
+ │                                                                                        │
+ └───────────────────────────────────────────────────────────────[ CYBERNITH  | 2026 ]────┘
+
+                                       .__                                .__               .___.__  
+  _________________  ____   ____  _____|  |__   _____   ___________  _____|  |__   ____   __| _/|__| 
+ /  ___/  _ \_  __ \/  _ \ /  _ \/  ___/  |  \ /     \ /  _ \_  __ \/  ___/  |  \_/ __ \ / __ | |  | 
+ \___ (  <_> )  | \(  <_> |  <_> )___ \|   Y  \  Y Y  (  <_> )  | \/\___ \|   Y  \  ___// /_/ | |  | 
+/____  >____/|__|   \____/ \____/____  >___|  /__|_|  /\____/|__|  /____  >___|  /\___  >____ | |__| 
+     \/                              \/     \/      \/                  \/     \/     \/     \/      
+
+```
+
 ```
 
 
@@ -39,7 +59,7 @@ I architect and build systems that **breathe, evolve, and scale** - from backend
 ### 🌐 Socials
 
 [![Website](https://img.shields.io/badge/Website-sorooshmorshedi.ir-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sorooshmorshedi.ir)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soroosh.morshedi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cybernith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sorooshmorshedi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devolopersoroosh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cybernith-181717?style=for-the-badge&logo=github)](https://github.com/cybernith)
