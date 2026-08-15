@@ -1,6 +1,3 @@
-<h1 align="center">⚡ Cyber Zenith — Soroosh Morshedi</h1>
-<h3 align="center">Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast</h3>
-
 ``` js
 
      ▄▄▄▄█▄▄  ███   ▐██▌  ▄▄█▄▄▄▄        ▄▄▄▄█▄▄  ▄▄█▄▄▄▄▄    ▄▄▄▄▄   ███     █████████ ▐██▌   ▐██▌
@@ -30,16 +27,12 @@
  /  ___/  _ \_  __ \/  _ \ /  _ \/  ___/  |  \ /     \ /  _ \_  __ \/  ___/  |  \_/ __ \ / __ | |  | 
  \___ (  <_> )  | \(  <_> |  <_> )___ \|   Y  \  Y Y  (  <_> )  | \/\___ \|   Y  \  ___// /_/ | |  | 
 /____  >____/|__|   \____/ \____/____  >___|  /__|_|  /\____/|__|  /____  >___|  /\___  >____ | |__| 
-     \/                              \/     \/      \/                  \/     \/     \/     \/      
+     \/                              \/     \/      \/                  \/     \/     \/     \/
+
 
 ```
+<h3 align="center">Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast</h3>
 
-```
-
-
-
-
----
 
 ### 💫 About Me
 
