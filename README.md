@@ -29,9 +29,8 @@
 /____  >____/|__|   \____/ \____/____  >___|  /__|_|  /\____/|__|  /____  >___|  /\___  >____ | |__| 
      \/                              \/     \/      \/                  \/     \/     \/     \/
 
-
+            Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast
 ```
-<h3>Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast</h3>
 
 
 ### 💫 About Me
