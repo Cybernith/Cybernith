@@ -31,7 +31,7 @@
 
 
 ```
-<h3 align="center">Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast</h3>
+<h3>Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast</h3>
 
 
 ### 💫 About Me
