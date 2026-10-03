@@ -1,225 +1,315 @@
-``` js
 
-     ▄▄▄▄█▄▄  ███   ▐██▌  ▄▄█▄▄▄▄        ▄▄▄▄█▄▄  ▄▄█▄▄▄▄▄    ▄▄▄▄▄   ███     █████████ ▐██▌   ▐██▌
-  ▄███▀▀▀▐██ ▐██▌   ▐██▌ ▐▓▓▓▀▀▀███▄  ▄███▀▀▀▐██ ▐▓▓▓▀▀▀███▌  ▐███▓▓  ███  ███  ▐▓▓▌    ▐██▌   ▐██▌
- ███▀    ███ █▓▓▄   ▓▓▓  ▐██▌   ▐███ ███▀    ███ ▐██▌   ▐██▌  ▓▓▓▐██▌▐▓▓▌ ▐██▌  ███     ▓▓▓    ▓▓▓ 
-▐▓▓▌    ▐▓▓▌  ▀▀█▓▓▒▒▒▒  ▓▓▓   ▄▓▓▀ ▐▓▓▌    ▐▓▓▌ ▓▓▓   ▄▓▓▀   ▒▒▒ ▓▓▓▐▒▒▌ ▐██▌  ▓▓▓     ▒▒▒▓▓▓▒▒▒▒ 
-▒▒▒          ▄▄▄   ▐░░▌  ▒▒▒ ▒▒▒▒▄  ▒▒▒▒▒▒▒      ▒▒▒▒▒▒▒▒    ▐░░▌ ▐▒▒▌░░  ▓▓▓  ▐▒▒▌    ▐░░▌   ▐░░▌ 
-░░░         ▐██▌   ▐██▌ ▐░░▌    ░░░ ░░░         ▐░░▌ ░░░     ▐██▌  ░░░██  ▒▒▒  ▐░░▌    ▐██▌   ▐██▌ 
-▐██▌    ███ ███    ███  ▐██▌   ▐██▌ ▐██▌    ███ ▐██▌ ▐██▌    ███   ▐███▌ ▐░░▌  ███     ███    ███  
- ▀▓▓▓▄▄▄███ ▀▓▓▓▓▓▓▓▀   ███ ▄▄▓▓▓▀   ▀▓▓▓▄▄▄███ ███   █▓▓   ▐▓▓▓    ▓▓▓▌ ▐▓▓▌  ▓▓▓     ▓▓▓    ▓▓▓  
-     ▀▀▓▓▓▌             ▓▓▓▓█▀▀          ▀▀▓▓▓▌ ▓▓▓   ▐▓▓▌                     ▀▀▀                 
-     
-                                                                                  
- ┌─[ CONTACT://SOROOSH_MORSHEDI ]─────────────────────────────────────────────────────────┐
- │                                                                                        │
- │  > WEB............. sorooshmorshedi.ir                                                 │
- │  > GITHUB.......... github.com/Cybernith                                               │
- │  > LINKEDIN........ linkedin.com/in/sorooshMorshedi                                    │
- │  > INSTAGRAM....... instagram.com/cybernith                                            │
- │  > call............ +989035894088                                                      │
- │  > whatsapp........ +989171035930                                                      │
- │                                                                                        │
- └───────────────────────────────────────────────────────────────[ CYBERNITH  | 2026 ]────┘
-
-                                       .__                                .__               .___.__  
-  _________________  ____   ____  _____|  |__   _____   ___________  _____|  |__   ____   __| _/|__| 
- /  ___/  _ \_  __ \/  _ \ /  _ \/  ___/  |  \ /     \ /  _ \_  __ \/  ___/  |  \_/ __ \ / __ | |  | 
- \___ (  <_> )  | \(  <_> |  <_> )___ \|   Y  \  Y Y  (  <_> )  | \/\___ \|   Y  \  ___// /_/ | |  | 
-/____  >____/|__|   \____/ \____/____  >___|  /__|_|  /\____/|__|  /____  >___|  /\___  >____ | |__| 
+```text
+                                       .__                                .__               .___.__
+  _________________  ____   ____  _____|  |__   _____   ___________  _____|  |__   ____   __| _/|__|
+ /  ___/  _ \_  __ \/  _ \ /  _ \/  ___/  |  \ /     \ /  _ \_  __ \/  ___/  |  \_/ __ \ / __ | |  |
+ \___ (  <_> )  | \(  <_> |  <_> )___ \|   Y  \  Y Y  (  <_> )  | \/\___ \|   Y  \  ___// /_/ | |  |
+/____  >____/|__|   \____/ \____/____  >___|  /__|_|  /\____/|__|  /____  >___|  /\___  >____ | |__|
      \/                              \/     \/      \/                  \/     \/     \/     \/
-
-            Full-Stack Developer | Technical Architect | Web3 & Cloud Enthusiast
-
 ```
 
+# Soroosh Morshedi
 
-### 💫 About Me
+### Senior Software Architect & Full-Stack Engineer
 
-CTO by title at <strong>EXUNI</strong>, creator by nature.  
-I architect and build systems that **breathe, evolve, and scale** - from backend core logic and financial engines to modern front-end applications and cloud-native deployments.
+I design and build **production software systems** across product engineering, software architecture, backend platforms, data systems, cloud infrastructure, and modern web applications.
 
-- 🧠 7+ years of experience in **Full-Stack Development**
-- 🧱 Strong focus on **Django, DRF, PostgreSQL, MongoDB, Docker, Nuxt.js, Vue.js**
-- 🧬 Passionate about **clean architecture, scalability, performance, and security**
-- 🌍 Comfortable in **remote, async-first, engineering-driven teams**
-- 💸 Experience in **Web3, fintech, SaaS, multi-tenant platforms, and e-commerce**
+My work focuses on turning complex business requirements into **modular, scalable, secure, and maintainable systems** — from domain modeling and architecture to implementation, deployment, observability, and production operations.
 
-> Architect of digital realms, building systems that scale from MVP to production — with observability, security, and maintainability baked in from day zero.
+> **Building systems, not isolated applications.**
 
 ---
 
-### 🌐 Socials
+## 🌐 Connect
 
-[![Website](https://img.shields.io/badge/Website-sorooshmorshedi.ir-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sorooshmorshedi.ir)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cybernith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sorooshmorshedi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devolopersoroosh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cybernith-181717?style=for-the-badge&logo=github)](https://github.com/cybernith)
-
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
----
-### 📊 Language Focus
-
--  Python      🟣🟣🟣🟣🟣
--  JavaScript  🟢🟢🟢🟢
--  Go          🔵🔵🔵
--  C++         🟠🟠
--  Rust        🔴
----
-
-
-### 🐍 Backend Development
-
-- **Frameworks:** Django, Django REST Framework (DRF), FastAPI, Flask  
-- **APIs:** RESTful API Design, GraphQL (Ariadne, Strawberry, Graphene)  
-- **Languages:** Python (Advanced), JavaScript, TypeScript  
-- **Async & Messaging:** Celery, Redis, RabbitMQ  
-- **Servers & Deploy:** Gunicorn, Uvicorn, NGINX, Docker, Docker Compose  
-- **Auth & Security:** JWT, OAuth2, session-based auth, secure design patterns  
-
-### 🎨 Frontend Development
-
-- **Frameworks & Libraries:** Vue.js, Nuxt.js, Vue CLI, Vuex, Pinia, Bootstrap, Tailwind CSS  
-- **Tech:** JavaScript (ES6+), TypeScript (basic), HTML5, CSS3, SCSS  
-- **UX & Integration:** Component-based design, REST/GraphQL integration, responsive UI, performance optimization  
-- **Tooling:** Webpack, Vite, NPM/Yarn, CI pipelines for frontend builds  
-
-### 🗄 Databases & Search
-
-- **Relational:** PostgreSQL (advanced schema design, indexing, partitioning, performance tuning), MySQL, MariaDB  
-- **NoSQL:** MongoDB, Redis (caching, pub/sub, in-memory structures)  
-- **Search:** Elasticsearch (basic → ready to go deeper), PostgreSQL full-text search (SearchVector, TrigramSimilarity)  
-- **Reliability:** ACID, backup strategies, replication, failover, sharding strategies  
-
-### ☁️ DevOps, Cloud & Infrastructure
-
-- **Containerization & Orchestration:** Docker, Docker Compose, Dokku  
-- **Cloud & VPS:** AWS, DigitalOcean, Hetzner, VPS setup & monitoring, backup & recovery  
-- **CI/CD:** GitHub Actions, GitLab CI, automated deployment pipelines  
-- **System Admin:** Linux (Ubuntu), shell scripting, cron jobs, Nginx reverse proxy  
-- **Security & Observability:** SSL/TLS, firewall, server hardening, monitoring, logging, real-time metrics, alerts  
-
-### 🧱 Software Architecture & System Design
-
-- **Architectural Patterns:** Clean Architecture, Modular Design, Layered & Hexagonal Architecture  
-- **System Design:** Microservices, Event-Driven Architecture (EDA), Domain-Driven Design (DDD)  
-- **Scalability & HA:** Load balancing, horizontal scaling, fault-tolerant systems, distributed patterns  
-- **Best Practices:** SOLID, Dependency Injection, TDD, CI/CD, audit logging, financial systems, wallet management  
+[![Website](https://img.shields.io/badge/Website-sorooshmorshedi.ir-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sorooshmorshedi.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soroosh%20Morshedi-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sorooshmorshedi)
+[![GitHub](https://img.shields.io/badge/GitHub-Cybernith-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/cybernith)
+[![Instagram](https://img.shields.io/badge/Instagram-Cybernith-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/cybernith)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:devolopersoroosh@gmail.com)
 
 ---
 
-## 📊 GitHub Stats & Tech Radar
+## 🧭 What I Build
+
+I work across the complete lifecycle of software systems:
+
+### 🧠 Product Engineering
+
+Turning business operations into software products, workflows, rules, states, and reusable capabilities.
+
+### 🧱 Software Architecture
+
+Designing boundaries, modules, domain models, service contracts, system behavior, and long-term maintainability.
+
+### ⚙️ Backend & API Platforms
+
+Production backend systems, REST and GraphQL APIs, authentication, authorization, asynchronous processing, integrations, and complex business logic.
+
+### 🗄 Data & Financial Systems
+
+Transactional workflows, ledgers, wallets, settlements, reporting, auditability, consistency, and reliable state management.
+
+### 🎨 Product Interfaces
+
+Modern web applications, dashboards, administration systems, responsive interfaces, and data-driven product experiences.
+
+### ☁️ Cloud & Infrastructure
+
+Deployment, CI/CD, observability, security, backups, runtime operations, infrastructure automation, and production reliability.
+
+---
+
+# 🧱 Architecture & System Design
+
+My engineering work commonly involves:
+
+* Domain-Driven Design (DDD)
+* Clean Architecture
+* Hexagonal Architecture
+* Modular Monoliths
+* Microservices
+* Event-Driven Architecture
+* REST & GraphQL APIs
+* Multi-tenant systems
+* Domain-oriented application design
+* Asynchronous processing
+* Transactional workflows
+* Audit trails and historical state
+* Authentication & authorization
+* Observability
+* CI/CD
+* Production hardening
+* Fault-tolerant system design
+
+The goal is not to make systems unnecessarily complex.
+
+The goal is to make complexity:
+
+**Intentional.
+Isolated.
+Testable.
+Observable.
+Maintainable.**
+
+---
+
+
+# 🚀 Selected Public Projects
+
+## 🧠 DevFocus
+
+### Developer Context Intelligence Engine
+
+An engineering-focused system designed around developer activity, context, and workflow intelligence.
+
+**Focus areas:**
+
+* Clean Django architecture
+* Developer session tracking
+* Context-switch analysis
+* Team RBAC
+* GitHub integration
+* Celery background processing
+* Server-Sent Events (SSE)
+* Modular domain design
+
+---
+
+## 🦀 Rust Architecture Lab
+
+A collection of Rust experiments and libraries exploring:
+
+* API design
+* Performance
+* Type safety
+* Developer experience
+* Systems-level engineering
+* Reusable architecture patterns
+
+---
+
+## 📡 FastAPI Internet of Things
+
+A backend platform built around:
+
+* FastAPI
+* PostgreSQL
+* Docker
+* REST APIs
+* IoT-oriented data workflows
+
+---
+
+## 🌐 Cybernith
+
+**Cyber­nith** is the technology ecosystem and engineering brand associated with my work.
+
+It focuses on:
+
+* Reusable software capabilities
+* Product engineering
+* Cloud-native systems
+* AI-assisted software
+* APIs and integrations
+* Modular business platforms
+* Engineering architecture
+* Infrastructure
+* Developer tooling
+
+> **Build Once. Reuse Forever.**
+
+---
+
+# 💼 Experience
+
+## 🧱 CTO & Lead Full-Stack Developer — EXUNI
+
+**E-commerce & Reverse Affiliate Platform**
+
+Worked across product strategy, architecture, backend, frontend, infrastructure, and production engineering.
+
+**Key areas:**
+
+* Django & Django REST Framework
+* PostgreSQL & MongoDB
+* Vue.js & Nuxt.js
+* E-commerce domain modeling
+* Inventory and product systems
+* Financial workflows
+* Wallet and transaction concepts
+* Search and filtering
+* CI/CD
+* Dockerized deployments
+* Observability
+* Domain-oriented architecture
+
+---
+
+## ☁️ CTO Assistant & Full-Stack Developer — Sobhan.Cloud
+
+Worked across full-stack product development and cloud-oriented software systems.
+
+**Key areas:**
+
+* Django & Django REST Framework
+* Vue.js
+* Multi-tenant SaaS
+* Cloud APIs
+* Dynamic configuration
+* Billing workflows
+* External integrations
+* Infrastructure-oriented development
+
+---
+
+## 🧩 Full-Stack Developer — Hamian Omid Farda
+
+Worked on internal and enterprise software systems with a focus on:
+
+* Django
+* Backend development
+* Internal workflows
+* Business process digitization
+* Database-driven applications
+* Maintainable application structure
+
+---
+
+# 🏗️ Engineering Philosophy
+
+I care about the parts of software that remain important after the first release:
+
+**Architecture.
+Boundaries.
+Data integrity.
+Security.
+Observability.
+Maintainability.
+Operational reliability.**
+
+A system should not only work.
+
+It should remain understandable when it grows.
+
+> **A product should hide complexity from its users without hiding complexity from its architecture.**
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybernith&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=cybernith&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cybernith&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://streak-stats.demolab.com?user=cybernith&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernith&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernith&layout=compact&hide_border=true" height="170" />
 </p>
 
-### 🧠 Skills Snapshot (Skill Radar)
+---
 
-A high-level view of where I spend most of my engineering time 👇
+# 🔬 Current Focus
 
-#### 🐍 Languages
+Currently interested in building and refining systems around:
 
-| Language   | Level              | Focus Areas                             |
-| ---------- | ------------------ | --------------------------------------- |
-| Python     | Expert ⚡⚡⚡⚡⚡       | Backend, APIs, automation, data tooling |
-| JavaScript | Advanced ⚡⚡⚡⚡      | Frontend, SPAs, integrations            |
-| TypeScript | Intermediate ⚡⚡⚡░░ | Frontend, Next/Nuxt typings             |
-| Bash       | Strong ⚡⚡⚡⚡░       | DevOps, scripting, server automation    |
-
-#### 🧩 Backend & APIs
-
-| Area              | Stack / Tools                                       | Notes                                    |
-| ----------------- | --------------------------------------------------- | ---------------------------------------- |
-| Web Frameworks    | Django, Django REST Framework (DRF), FastAPI, Flask | Core backend & microservices             |
-| API Design        | REST, GraphQL (Ariadne, Strawberry, Graphene)       | Versioned, documented, secure APIs       |
-| Messaging & Async | Celery, Redis, RabbitMQ                             | Background jobs, queues, task pipelines  |
-| Auth & Security   | JWT, OAuth2, session-based auth                     | Secure, multi-tenant, role-based systems |
-| Testing & Quality | Pytest, unit/integration tests, CI/CD               | Automation-first, coverage-driven        |
-
-#### 🎨 Frontend & UX
-
-| Area             | Stack / Tools                                        | Notes                             |
-| ---------------- | ---------------------------------------------------- | --------------------------------- |
-| Frameworks       | Vue.js, Nuxt.js, Vue CLI, Next.js                    | SPAs, dashboards, marketing sites |
-| Styling          | Tailwind CSS, Bootstrap, SCSS, custom design systems | Design systems, responsive layout |
-| State Management | Vuex, Pinia                                          | Complex UI flows, data-driven UIs |
-| Integration      | Axios / Fetch, REST/GraphQL                          | Clean API layers, error handling  |
-| Performance & UX | Lighthouse tuning, code-splitting, lazy loading      | Fast, responsive, mobile-first    |
-
-#### 🗄 Databases & Search
-
-| Area              | Stack / Tools                                            | Notes                                      |
-| ----------------- | -------------------------------------------------------- | ------------------------------------------ |
-| Relational        | PostgreSQL, MySQL, MariaDB                               | Schema design, indexing, performance       |
-| NoSQL & Caching   | MongoDB, Redis                                           | Caching, pub/sub, in-memory data           |
-| Search & Indexing | PostgreSQL FTS, TrigramSimilarity, Elasticsearch (ready) | Fuzzy search, ranking, text-intensive apps |
-| Reliability       | Backups, replication, failover, ACID                     | Data integrity & resilience                |
-
-#### ☁️ DevOps, Cloud & Infra
-
-| Area                  | Stack / Tools                                           | Notes                                 |
-| --------------------- | ------------------------------------------------------- | ------------------------------------- |
-| Containerization      | Docker, Docker Compose, Dokku                           | App packaging, PaaS-style deployments |
-| Web Servers & Proxy   | NGINX, Gunicorn, Uvicorn                                | Secure, performant serving            |
-| CI/CD                 | GitHub Actions, GitLab CI                               | Automated testing & deploy pipelines  |
-| Cloud & VPS           | AWS, DigitalOcean, Hetzner, Ubuntu servers              | Provisioning, monitoring, backup      |
-| Security & Monitoring | SSL/TLS, firewalls, logging, metrics, uptime monitoring | Hardening, observability, alerting    |
+* Software architecture
+* Production-grade backend platforms
+* Reusable business capabilities
+* AI-native software systems
+* Cloud infrastructure
+* Financial and transactional systems
+* Multi-tenant SaaS
+* Developer tooling
+* System observability
+* Secure and maintainable software
 
 ---
 
-## 🧭 Experience Highlights
+# 📌 GitHub Principles
 
-### 🧱 CTO & Lead Full-Stack Developer — EXUNI (exuni.ir)  
-
-**Shiraz, Iran • May 2024 – Present**
-
-- Built EXUNI, a next-generation affiliate-based e-commerce platform, **from scratch** (backend + frontend).  
-- Backend: Django, DRF, PostgreSQL, MongoDB — inventory management, advanced search, scalable financial modules (wallet, audit logs, transactions).  
-- Frontend: Nuxt.js, Vue CLI — responsive, SEO-aware, high-performance storefront.  
-- Designed architecture for **thousands of concurrent users** with strong focus on security, scalability, and maintainability.  
-- Full CI/CD, Dockerized deploy, observability, and modular domain-driven design.
-
----
-
-### ☁️ CTO Assistant & Full-Stack Developer — Sobhan.Cloud  
-
-**Shiraz, Iran • Jan 2020 – Jan 2025**
-
-- Developed core components of a cloud service platform providing **SaaS and infrastructure hosting**.  
-- Worked on frontend (Vue.js) and backend (Django, DRF) for **multi-tenant systems with dynamic configuration**.  
-- Contributed to **cloud APIs, billing automation, integrations** with external services.  
-- Optimized performance and reliability for systems under heavy load.
+```text
+01  Understand the domain.
+02  Model the system.
+03  Define clear boundaries.
+04  Build reusable capabilities.
+05  Keep data consistent.
+06  Make failures observable.
+07  Automate what can be automated.
+08  Secure the system by design.
+09  Optimize where evidence demands it.
+10  Keep the architecture understandable.
+```
 
 ---
 
-### 🧩 Full-Stack Developer — Hamian Omid Farda  
+# 📫 Contact
 
-**Tehran, Iran • Sep 2022 – Apr 2023**
+**Website**
+https://sorooshmorshedi.ir
 
-- Built & maintained internal enterprise systems using Django + Django templates.  
-- Digitized manual workflows, improving overall efficiency significantly.  
-- Ensured clean, well-documented code and collaborated in an agile environment.
+**LinkedIn**
+https://linkedin.com/in/sorooshmorshedi
+
+**GitHub**
+https://github.com/cybernith
+
+**Email**
+[devolopersoroosh@gmail.com](mailto:devolopersoroosh@gmail.com)
 
 ---
+```text
+     ▄▄▄▄█▄▄  ███   ▐██▌  ▄▄█▄▄▄▄        ▄▄▄▄█▄▄  ▄▄█▄▄▄▄▄    ▄▄▄▄▄   ███     █████████ ▐██▌   ▐██▌
+  ▄███▀▀▀▐██ ▐██▌   ▐██▌ ▐▓▓▓▀▀▀███▄  ▄███▀▀▀▐██ ▐▓▓▓▀▀▀███▌  ▐███▓▓  ███  ███  ▐▓▓▌    ▐██▌   ▐██▌
+ ███▀    ███ █▓▓▄   ▓▓▓  ▐██▌   ▐███ ███▀    ███ ▐██▌   ▐██▌  ▓▓▓▐██▌▐▓▓▌ ▐██▌  ███     ▓▓▓    ▓▓▓
+▐▓▓▌    ▐▓▓▌  ▀▀█▓▓▒▒▒▒  ▓▓▓   ▄▓▓▀ ▐▓▓▌    ▐▓▓▌ ▓▓▓   ▄▓▓▀   ▒▒▒ ▓▓▓▐▒▒▌ ▐██▌  ▓▓▓     ▒▒▒▓▓▓▒▒▒▒
+▒▒▒          ▄▄▄   ▐░░▌  ▒▒▒ ▒▒▒▒▄  ▒▒▒▒▒▒▒      ▒▒▒▒▒▒▒▒    ▐░░▌ ▐▒▒▌░░  ▓▓▓  ▐▒▒▌    ▐░░▌   ▐░░▌
+░░░         ▐██▌   ▐██▌ ▐░░▌    ░░░ ░░░         ▐░░▌ ░░░     ▐██▌  ░░░██  ▒▒▒  ▐░░▌    ▐██▌   ▐██▌
+▐██▌    ███ ███    ███  ▐██▌   ▐██▌ ▐██▌    ███ ▐██▌ ▐██▌    ███   ▐███▌ ▐░░▌  ███     ███    ███
+ ▀▓▓▓▄▄▄███ ▀▓▓▓▓▓▓▓▀   ███ ▄▄▓▓▓▀   ▀▓▓▓▄▄▄███ ███   █▓▓   ▐▓▓▓    ▓▓▓▌ ▐▓▓▌  ▓▓▓     ▓▓▓    ▓▓▓
+     ▀▀▓▓▓▌             ▓▓▓▓█▀▀          ▀▀▓▓▓▌ ▓▓▓   ▐▓▓▌                     ▀▀▀
+````
 
-
-## 📩 Contact
-
-- 📧 Email: **devolopersoroosh@gmail.com**  
-- 📞 Phone: **(+98) 917 103 5930**  
-- 🌐 Website: **https://sorooshmorshedi.ir**  
-- 🐙 GitHub: **https://github.com/cybernith**  
-
-> Open to remote collaboration, complex backend architectures, Web3 integrations, and building systems that actually scale — not just on paper.
+<p align="center">
+  <strong>Software Architecture · Full-Stack Engineering · Cloud · Product Systems</strong>
+</p>
